@@ -33,3 +33,12 @@
 [16:18:31] [Server thread/INFO]: Alcantarilla47 joined the game
 [16:20:47] [Server thread/INFO]: Tigre_Severo was slain by Zombie
 [16:22:32] [Server thread/INFO]: Alcantarilla47 has made the advancement [Voluntary Exile]
+[16:40:42] [Server thread/INFO]: pepeneque[/127.63.100.36:51965] logged in with entity id 15789 at (72.5954335226555, 75.0, 1731.4500502309754)
+[16:40:42] [Server thread/INFO]: pepeneque joined the game
+[16:41:20] [Server thread/INFO]: pepeneque has made the advancement [Monster Hunter]
+[16:41:34] [Server thread/INFO]: [Tigre_Severo: Teleported pepeneque to Tigre_Severo]
+[16:42:07] [Server thread/INFO]: pepeneque has made the advancement [Sweet Dreams]
+[16:43:54] [Server thread/INFO]: [Not Secure] [Tigre_Severo] Hello World
+[16:47:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=153, y=70, z=-1985} jd{x=154, y=70, z=-1986}
+[16:47:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=153, y=70, z=-1985} jd{x=154, y=70, z=-1986}
+[16:50:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=103, y=77, z=-2008} jd{x=102, y=76, z=-2010}
