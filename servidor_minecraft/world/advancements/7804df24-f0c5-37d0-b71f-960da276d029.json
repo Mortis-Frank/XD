@@ -17,6 +17,7 @@
       "minecraft:lukewarm_ocean": "2024-12-22 15:33:55 +0000",
       "minecraft:stony_shore": "2024-12-22 15:30:41 +0000",
       "minecraft:snowy_plains": "2024-12-23 15:12:52 +0000",
+      "minecraft:dripstone_caves": "2024-12-23 17:54:26 +0000",
       "minecraft:ice_spikes": "2024-12-23 15:14:21 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-22 15:27:47 +0000",
       "minecraft:frozen_river": "2024-12-23 15:14:20 +0000",
@@ -497,6 +498,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-22 15:34:41 +0000",
       "minecraft:skeleton": "2024-12-23 15:37:46 +0000",
+      "minecraft:enderman": "2024-12-23 17:47:49 +0000",
       "minecraft:spider": "2024-12-23 15:35:09 +0000",
       "minecraft:zombie": "2024-12-23 14:32:47 +0000",
       "minecraft:creeper": "2024-12-23 14:42:39 +0000"
@@ -1748,6 +1750,90 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2024-12-23 17:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-23 17:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-23 17:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-23 17:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2024-12-23 17:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-23 17:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-23 17:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-23 17:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-23 17:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-23 17:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-23 17:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-23 17:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-23 17:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-23 17:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-23 17:45:32 +0000"
     },
     "done": true
   },

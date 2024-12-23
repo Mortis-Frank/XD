@@ -515,6 +515,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-23 15:36:44 +0000",
       "minecraft:skeleton": "2024-12-23 14:35:07 +0000",
+      "minecraft:enderman": "2024-12-23 17:27:14 +0000",
       "minecraft:spider": "2024-12-23 14:41:03 +0000",
       "minecraft:zombie": "2024-12-23 14:32:25 +0000",
       "minecraft:creeper": "2024-12-23 15:13:20 +0000"
@@ -1864,12 +1865,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2024-12-23 17:08:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 17:07:18 +0000"
@@ -1936,9 +1931,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-23 17:08:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-23 17:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2024-12-23 17:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-23 17:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-23 17:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-23 17:39:50 +0000"
     },
     "done": true
   },
