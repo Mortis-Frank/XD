@@ -1,113 +1,21 @@
-[16:00:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:00:37] [ServerMain/INFO]: Loaded 1290 recipes
-[16:00:37] [ServerMain/INFO]: Loaded 1399 advancements
-[16:00:38] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[16:00:38] [Server thread/INFO]: Loading properties
-[16:00:38] [Server thread/INFO]: Default game type: SURVIVAL
-[16:00:38] [Server thread/INFO]: Generating keypair
-[16:00:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:00:38] [Server thread/INFO]: Using epoll channel type
-[16:00:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:00:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:00:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:00:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:00:38] [Server thread/INFO]: Preparing level "world"
-[16:00:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:00:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:00:41] [Server thread/INFO]: Time elapsed: 437 ms
-[16:00:41] [Server thread/INFO]: Done (3.324s)! For help, type "help"
-[16:00:59] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:47881] logged in with entity id 18 at (156.6810580453375, -43.0, -2073.636018146881)
-[16:00:59] [Server thread/INFO]: Tigre_Severo joined the game
-[16:01:00] [Server thread/INFO]: Alcantarilla47[/127.51.173.61:50637] logged in with entity id 138 at (127.69195359834097, 68.0, -2015.7297839293547)
-[16:01:00] [Server thread/INFO]: Alcantarilla47 joined the game
-[16:02:15] [Server thread/INFO]: Tigre_Severo has made the advancement [Minecraft: Trial(s) Edition]
-[16:02:52] [Server thread/INFO]: Tigre_Severo has made the advancement [Hot Stuff]
-[16:05:25] [Server thread/INFO]: [Not Secure] <Alcantarilla47> aaaaaaaaaaaaaaaaaaaaaaaaa
-[16:05:27] [Server thread/INFO]: [Not Secure] <Alcantarilla47> zz
-[16:11:05] [Server thread/INFO]: Tigre_Severo was shot by Stray
-[16:13:05] [Server thread/INFO]: [Tigre_Severo: Teleported Tigre_Severo to Alcantarilla47]
-[16:17:29] [Server thread/INFO]: Tigre_Severo was slain by Zombie
-[16:18:10] [Server thread/INFO]: Alcantarilla47 lost connection: Disconnected
-[16:18:10] [Server thread/INFO]: Alcantarilla47 left the game
-[16:18:31] [Server thread/INFO]: Alcantarilla47[/127.51.173.61:53503] logged in with entity id 8208 at (138.6018096508131, 67.0, -2010.1453516668844)
-[16:18:31] [Server thread/INFO]: Alcantarilla47 joined the game
-[16:20:47] [Server thread/INFO]: Tigre_Severo was slain by Zombie
-[16:22:32] [Server thread/INFO]: Alcantarilla47 has made the advancement [Voluntary Exile]
-[16:40:42] [Server thread/INFO]: pepeneque[/127.63.100.36:51965] logged in with entity id 15789 at (72.5954335226555, 75.0, 1731.4500502309754)
-[16:40:42] [Server thread/INFO]: pepeneque joined the game
-[16:41:20] [Server thread/INFO]: pepeneque has made the advancement [Monster Hunter]
-[16:41:34] [Server thread/INFO]: [Tigre_Severo: Teleported pepeneque to Tigre_Severo]
-[16:42:07] [Server thread/INFO]: pepeneque has made the advancement [Sweet Dreams]
-[16:43:54] [Server thread/INFO]: [Not Secure] [Tigre_Severo] Hello World
-[16:47:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=153, y=70, z=-1985} jd{x=154, y=70, z=-1986}
-[16:47:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=153, y=70, z=-1985} jd{x=154, y=70, z=-1986}
-[16:50:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=103, y=77, z=-2008} jd{x=102, y=76, z=-2010}
-[16:53:04] [Server thread/INFO]: Alcantarilla47 lost connection: Disconnected
-[16:53:04] [Server thread/INFO]: Alcantarilla47 left the game
-[16:53:12] [Server thread/INFO]: Alcantarilla47[/127.51.173.61:59027] logged in with entity id 22167 at (164.97039698341666, 72.0, -1993.5833521057114)
-[16:53:12] [Server thread/INFO]: Alcantarilla47 joined the game
-[16:56:13] [Server thread/INFO]: pepeneque has made the advancement [Acquire Hardware]
-[17:03:05] [Server thread/INFO]: BromuroDeCalcio[/127.6.219.207:42785] logged in with entity id 26742 at (227.98629983755214, -9.0, -2554.5807999011577)
-[17:03:05] [Server thread/INFO]: BromuroDeCalcio joined the game
-[17:05:38] [Server thread/INFO]: BromuroDeCalcio lost connection: Disconnected
-[17:05:38] [Server thread/INFO]: BromuroDeCalcio left the game
-[17:05:40] [Server thread/INFO]: Alcantarilla47 lost connection: Disconnected
-[17:05:40] [Server thread/INFO]: Alcantarilla47 left the game
-[17:05:47] [Server thread/INFO]: Alcantarilla47[/127.51.173.61:56061] logged in with entity id 28530 at (217.04989651794128, 74.5, -2012.9270511636812)
-[17:05:47] [Server thread/INFO]: Alcantarilla47 joined the game
-[17:05:49] [Server thread/INFO]: BromuroDeCalcio[/127.6.219.207:57985] logged in with entity id 28539 at (329.19921886676923, -3.0, -2662.0251965059133)
-[17:05:49] [Server thread/INFO]: BromuroDeCalcio joined the game
-[17:12:44] [Server thread/INFO]: pepeneque has made the advancement [Isn't It Iron Pick]
-[17:14:01] [Server thread/INFO]: [Tigre_Severo: Gave 1 [Armadillo Scute] to Alcantarilla47]
-[17:15:48] [Server thread/INFO]: [Tigre_Severo: Gave 1 [Armadillo Spawn Egg] to Alcantarilla47]
-[17:16:43] [Server thread/INFO]: BromuroDeCalcio lost connection: Disconnected
-[17:16:43] [Server thread/INFO]: BromuroDeCalcio left the game
-[17:16:47] [Server thread/INFO]: pepeneque lost connection: Disconnected
-[17:16:47] [Server thread/INFO]: pepeneque left the game
-[17:16:48] [Server thread/INFO]: Alcantarilla47 lost connection: Disconnected
-[17:16:48] [Server thread/INFO]: Alcantarilla47 left the game
-[17:16:53] [Server thread/INFO]: BromuroDeCalcio[/127.6.219.207:40871] logged in with entity id 38623 at (278.6838317247605, 0.0, -2653.5669262376464)
-[17:16:53] [Server thread/INFO]: BromuroDeCalcio joined the game
-[17:16:55] [Server thread/INFO]: Alcantarilla47[/127.51.173.61:33803] logged in with entity id 38887 at (107.07250749672862, 66.0, -1976.376845014329)
-[17:16:55] [Server thread/INFO]: Alcantarilla47 joined the game
-[17:17:01] [Server thread/INFO]: pepeneque[/127.63.100.36:57481] logged in with entity id 39218 at (104.46571131766436, 60.0, -1896.8212873335726)
-[17:17:01] [Server thread/INFO]: pepeneque joined the game
-[17:21:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=349, y=63, z=-2474} jd{x=348, y=64, z=-2474}
-[17:22:01] [Server thread/INFO]: [Tigre_Severo: Gave 1 [Acacia Boat] to 4]
-[17:22:46] [Server thread/INFO]: [Tigre_Severo: Gave 1 [Tinted Glass] to Alcantarilla47]
-[17:22:55] [Server thread/INFO]: BromuroDeCalcio has made the advancement [You've Got a Friend in Me]
-[17:23:29] [Server thread/INFO]: [Tigre_Severo: Gave 1 [Glow Ink Sac] to Alcantarilla47]
-[17:26:59] [Server thread/INFO]: [Tigre_Severo: Removed 1 item(s) from player Tigre_Severo]
-[17:28:13] [Server thread/INFO]: [Not Secure] <Alcantarilla47> zzzzzzzzzzzz
-[17:28:18] [Server thread/INFO]: pepeneque lost connection: Disconnected
-[17:28:18] [Server thread/INFO]: pepeneque left the game
-[17:28:24] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzz
-[17:28:25] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzz
-[17:28:25] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzzz
-[17:28:26] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzz
-[17:28:27] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzz
-[17:28:34] [Server thread/INFO]: pepeneque[/127.63.100.36:48735] logged in with entity id 51292 at (515.6358249058623, 66.0, -2270.7182886202495)
-[17:28:34] [Server thread/INFO]: pepeneque joined the game
-[17:32:33] [Server thread/INFO]: BromuroDeCalcio has made the advancement [What a Deal!]
-[17:33:34] [Server thread/INFO]: pepeneque was slain by Zombie
-[17:39:09] [Server thread/INFO]: Tigre_Severo lost connection: Disconnected
-[17:39:09] [Server thread/INFO]: Tigre_Severo left the game
-[17:39:50] [Server thread/INFO]: Alcantarilla47 has made the advancement [A Seedy Place]
-[17:40:48] [Server thread/INFO]: Alcantarilla47 lost connection: Disconnected
-[17:40:48] [Server thread/INFO]: Alcantarilla47 left the game
-[17:45:01] [Server thread/INFO]: pepeneque lost connection: Disconnected
-[17:45:01] [Server thread/INFO]: pepeneque left the game
-[17:45:07] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzz
-[17:45:07] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzz
-[17:45:08] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzzz
-[17:45:08] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzz
-[17:45:09] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzzz
-[17:45:14] [Server thread/INFO]: pepeneque[/127.63.100.36:60279] logged in with entity id 63266 at (677.9505318054725, 5.0, -1847.828656764842)
-[17:45:14] [Server thread/INFO]: pepeneque joined the game
-[17:48:54] [Server thread/INFO]: pepeneque has made the advancement [Suit Up]
-[17:57:00] [Server thread/INFO]: pepeneque has made the advancement [Diamonds!]
-[17:57:43] [Server thread/INFO]: pepeneque was blown up by Creeper
-[17:58:31] [Server thread/INFO]: BromuroDeCalcio lost connection: Disconnected
-[17:58:31] [Server thread/INFO]: BromuroDeCalcio left the game
-[17:58:35] [Server thread/INFO]: BromuroDeCalcio[/127.6.219.207:50611] logged in with entity id 70013 at (-15.443797326526772, 74.0, -2251.9147885139737)
-[17:58:35] [Server thread/INFO]: BromuroDeCalcio joined the game
+[21:56:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:56:30] [ServerMain/INFO]: Loaded 1290 recipes
+[21:56:30] [ServerMain/INFO]: Loaded 1399 advancements
+[21:56:31] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:56:31] [Server thread/INFO]: Loading properties
+[21:56:31] [Server thread/INFO]: Default game type: SURVIVAL
+[21:56:31] [Server thread/INFO]: Generating keypair
+[21:56:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:56:31] [Server thread/INFO]: Using epoll channel type
+[21:56:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:56:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:56:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:56:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:56:31] [Server thread/INFO]: Preparing level "world"
+[21:56:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:56:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:56:35] [Server thread/INFO]: Time elapsed: 515 ms
+[21:56:35] [Server thread/INFO]: Done (3.471s)! For help, type "help"
+[21:57:29] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:43631] logged in with entity id 17 at (214.7020976875997, 75.0, -2007.2482386359743)
+[21:57:29] [Server thread/INFO]: Tigre_Severo joined the game
+[22:00:59] [Server thread/INFO]: [Not Secure] <Tigre_Severo> xd
