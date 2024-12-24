@@ -1,71 +1,35 @@
-[22:29:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:29:57] [ServerMain/INFO]: Loaded 1290 recipes
-[22:29:57] [ServerMain/INFO]: Loaded 1399 advancements
-[22:29:58] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[22:29:58] [Server thread/INFO]: Loading properties
-[22:29:58] [Server thread/INFO]: Default game type: SURVIVAL
-[22:29:58] [Server thread/INFO]: Generating keypair
-[22:29:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:29:58] [Server thread/INFO]: Using epoll channel type
-[22:29:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:29:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:29:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:29:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:29:58] [Server thread/INFO]: Preparing level "world"
-[22:30:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:30:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:30:02] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[22:30:02] [Server thread/INFO]: Time elapsed: 878 ms
-[22:30:02] [Server thread/INFO]: Done (4.270s)! For help, type "help"
-[22:30:15] [Server thread/INFO]: BromuroDeCalcio[/127.6.219.207:41513] logged in with entity id 17 at (-13.741636473429569, 74.0, -2268.8672883561903)
-[22:30:15] [Server thread/INFO]: BromuroDeCalcio joined the game
-[22:30:36] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:39713] logged in with entity id 879 at (215.27041174829318, 79.41999998688698, -1998.103606221151)
-[22:30:36] [Server thread/INFO]: Tigre_Severo joined the game
-[22:30:44] [Server thread/WARN]: UUID of added entity already exists: cff['Bee'/1359, l='ServerLevel[world]', x=-512.66, y=94.83, z=-2712.50]
-[22:30:45] [Server thread/WARN]: UUID of added entity already exists: cff['Bee'/1420, l='ServerLevel[world]', x=-528.00, y=107.74, z=-2651.79]
-[22:30:48] [Server thread/WARN]: UUID of added entity already exists: cfl['Cow'/1526, l='ServerLevel[world]', x=761.55, y=66.00, z=-1616.18]
-[22:34:33] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzz
-[22:34:33] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzz
-[22:34:34] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzzz
-[22:34:34] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzzz
-[22:34:35] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzz
-[22:34:36] [Server thread/INFO]: Tigre_Severo lost connection: Disconnected
-[22:34:36] [Server thread/INFO]: Tigre_Severo left the game
-[22:35:33] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:33221] logged in with entity id 3814 at (219.59862156751427, 6.0, -2157.2257514590024)
-[22:35:34] [Server thread/INFO]: Tigre_Severo joined the game
-[22:38:25] [Server thread/INFO]: Tigre_Severo was shot by Skeleton
-[22:47:05] [Server thread/INFO]: BromuroDeCalcio lost connection: Disconnected
-[22:47:05] [Server thread/INFO]: BromuroDeCalcio left the game
-[22:47:11] [Server thread/INFO]: BromuroDeCalcio[/127.6.219.207:56631] logged in with entity id 9666 at (-25.063733885908313, 74.0, -2266.7244480456975)
-[22:47:11] [Server thread/INFO]: BromuroDeCalcio joined the game
-[22:48:34] [Server thread/INFO]: [Tigre_Severo: Gave 1 [Air] to BromuroDeCalcio]
-[22:48:50] [Server thread/INFO]: [Tigre_Severo: Gave 1 [Air] to Tigre_Severo]
-[22:52:35] [Server thread/INFO]: Tigre_Severo has made the advancement [A Seedy Place]
-[22:57:46] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzz
-[22:57:47] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzz
-[22:57:47] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzzz
-[22:57:48] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzz
-[22:57:49] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> zzz
-[23:08:56] [Server thread/INFO]: BromuroDeCalcio has made the advancement [Take Aim]
-[23:09:37] [Server thread/INFO]: [Tigre_Severo: Removed 1 item(s) from player BromuroDeCalcio]
-[23:10:51] [Server thread/INFO]: [Tigre_Severo: Gave 2 [Diamond] to BromuroDeCalcio]
-[23:11:36] [Server thread/INFO]: [Tigre_Severo: Gave 1 [Diamond Pickaxe] to BromuroDeCalcio]
-[23:12:02] [Server thread/INFO]: [Tigre_Severo: Removed 2 item(s) from player BromuroDeCalcio]
-[23:13:26] [Server thread/INFO]: [Tigre_Severo: Gave 3 [Diamond Ore] to BromuroDeCalcio]
-[23:14:24] [Server thread/INFO]: BromuroDeCalcio lost connection: Disconnected
-[23:14:24] [Server thread/INFO]: BromuroDeCalcio left the game
-[23:14:31] [Server thread/INFO]: BromuroDeCalcio[/127.6.219.207:59721] logged in with entity id 20570 at (-27.305641563444205, 74.0, -2273.3602239048964)
-[23:14:31] [Server thread/INFO]: BromuroDeCalcio joined the game
-[23:21:59] [Server thread/INFO]: [Tigre_Severo: Gave 1 [Warden Spawn Egg] to BromuroDeCalcio]
-[23:23:18] [Server thread/INFO]: [Tigre_Severo: Gave 4 [Barrier] to Tigre_Severo]
-[23:23:50] [Server thread/INFO]: [Tigre_Severo: Set own game mode to Creative Mode]
-[23:24:05] [Server thread/INFO]: [Tigre_Severo: Set own game mode to Survival Mode]
-[23:24:54] [Server thread/INFO]: [Tigre_Severo: Gave 64 [Barrier] to Tigre_Severo]
-[23:25:46] [Server thread/INFO]: [Tigre_Severo: Gave 1 [Item Frame] to Tigre_Severo]
-[23:28:24] [Server thread/INFO]: BromuroDeCalcio lost connection: Disconnected
-[23:28:24] [Server thread/INFO]: BromuroDeCalcio left the game
-[23:28:54] [Server thread/INFO]: [Tigre_Severo: Removed 61 item(s) from player Tigre_Severo]
-[23:34:07] [Server thread/INFO]: Tigre_Severo lost connection: Disconnected
-[23:34:07] [Server thread/INFO]: Tigre_Severo left the game
-[23:49:59] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:38683] logged in with entity id 24793 at (219.69999998807907, 79.0, -2000.9864036700155)
-[23:49:59] [Server thread/INFO]: Tigre_Severo joined the game
+[00:02:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:02:40] [ServerMain/INFO]: Loaded 1290 recipes
+[00:02:40] [ServerMain/INFO]: Loaded 1399 advancements
+[00:02:41] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:02:41] [Server thread/INFO]: Loading properties
+[00:02:41] [Server thread/INFO]: Default game type: SURVIVAL
+[00:02:41] [Server thread/INFO]: Generating keypair
+[00:02:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:02:41] [Server thread/INFO]: Using epoll channel type
+[00:02:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:02:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:02:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:02:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:02:41] [Server thread/INFO]: Preparing level "world"
+[00:02:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:02:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:45] [Worker-Main-3/INFO]: Preparing spawn area: 20%
+[00:02:45] [Server thread/INFO]: Time elapsed: 1162 ms
+[00:02:45] [Server thread/INFO]: Done (4.239s)! For help, type "help"
+[00:02:46] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:60951] logged in with entity id 17 at (159.417034032614, 76.71280005097407, -1971.3371854591462)
+[00:02:46] [Server thread/INFO]: Tigre_Severo joined the game
+[00:03:01] [Server thread/INFO]: Tigre_Severo lost connection: Disconnected
+[00:03:01] [Server thread/INFO]: Tigre_Severo left the game
+[00:03:07] [Server thread/INFO]: Stopping the server
+[00:03:07] [Server thread/INFO]: Stopping server
+[00:03:07] [Server thread/INFO]: Saving players
+[00:03:07] [Server thread/INFO]: Saving worlds
+[00:03:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:03:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:03:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:03:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:03:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:03:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:03:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
