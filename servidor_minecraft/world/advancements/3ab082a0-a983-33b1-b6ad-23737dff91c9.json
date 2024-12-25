@@ -605,11 +605,13 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-22 15:55:07 +0000",
+      "apple": "2024-12-25 16:01:38 +0000",
       "bread": "2024-12-24 12:17:20 +0000",
       "cooked_chicken": "2024-12-24 13:10:24 +0000",
       "rotten_flesh": "2024-12-22 15:34:27 +0000",
       "cooked_mutton": "2024-12-23 15:08:38 +0000",
       "cooked_beef": "2024-12-24 12:49:44 +0000",
+      "cod": "2024-12-25 15:55:07 +0000",
       "baked_potato": "2024-12-24 16:17:18 +0000",
       "rabbit_stew": "2024-12-24 16:13:39 +0000",
       "cooked_salmon": "2024-12-24 15:54:02 +0000",
@@ -870,7 +872,8 @@
       "minecraft:witch": "2024-12-23 15:35:00 +0000",
       "minecraft:spider": "2024-12-23 15:22:42 +0000",
       "minecraft:vex": "2024-12-24 16:09:29 +0000",
-      "minecraft:zombie": "2024-12-22 15:51:04 +0000"
+      "minecraft:zombie": "2024-12-22 15:51:04 +0000",
+      "minecraft:creeper": "2024-12-25 15:56:36 +0000"
     },
     "done": false
   },
@@ -2002,27 +2005,9 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2024-12-24 16:20:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-12-24 15:43:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-12-24 16:02:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2024-12-24 15:43:58 +0000"
     },
     "done": true
   },
@@ -2032,21 +2017,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_the_recipe": "2024-12-24 15:51:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2024-12-24 15:43:56 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "shot_arrow": "2024-12-24 16:00:39 +0000"
+      "has_bone_meal": "2024-12-24 15:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-24 15:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2024-12-24 15:51:03 +0000"
     },
     "done": true
   },
@@ -2056,15 +2047,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "voluntary_exile": "2024-12-24 16:26:17 +0000"
+      "shot_arrow": "2024-12-24 16:00:39 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "hero_of_the_village": "2024-12-24 16:16:02 +0000"
+      "deflected_projectile": "2024-12-24 16:02:51 +0000"
     },
     "done": true
   },
@@ -2074,9 +2065,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "has_bone_meal": "2024-12-24 15:43:58 +0000"
+      "hero_of_the_village": "2024-12-24 16:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-24 16:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-24 16:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-25 15:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-25 15:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-25 15:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-25 15:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-25 16:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-25 16:07:17 +0000"
     },
     "done": true
   },

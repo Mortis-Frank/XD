@@ -414,6 +414,7 @@
       "cooked_chicken": "2024-12-25 15:13:21 +0000",
       "rotten_flesh": "2024-12-24 15:20:44 +0000",
       "cooked_mutton": "2024-12-24 15:54:40 +0000",
+      "glow_berries": "2024-12-25 16:11:17 +0000",
       "cooked_beef": "2024-12-22 15:36:06 +0000",
       "beef": "2024-12-22 15:31:32 +0000",
       "carrot": "2024-12-23 14:41:55 +0000"
@@ -502,15 +503,16 @@
     "criteria": {
       "minecraft:pillager": "2024-12-22 15:34:41 +0000",
       "minecraft:skeleton": "2024-12-23 15:37:46 +0000",
+      "minecraft:witch": "2024-12-24 15:57:22 +0000",
+      "minecraft:ravager": "2024-12-24 15:56:03 +0000",
+      "minecraft:cave_spider": "2024-12-25 16:33:19 +0000",
       "minecraft:vindicator": "2024-12-24 15:55:02 +0000",
       "minecraft:enderman": "2024-12-23 17:47:49 +0000",
       "minecraft:stray": "2024-12-24 12:56:02 +0000",
-      "minecraft:witch": "2024-12-24 15:57:22 +0000",
       "minecraft:spider": "2024-12-23 15:35:09 +0000",
       "minecraft:vex": "2024-12-24 16:10:41 +0000",
       "minecraft:zombie": "2024-12-23 14:32:47 +0000",
       "minecraft:creeper": "2024-12-23 14:42:39 +0000",
-      "minecraft:ravager": "2024-12-24 15:56:03 +0000",
       "minecraft:evoker": "2024-12-24 15:58:20 +0000"
     },
     "done": false
@@ -2786,6 +2788,48 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2024-12-25 15:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-25 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 16:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 16:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-25 16:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-25 16:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 16:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 16:29:47 +0000"
     },
     "done": true
   },
