@@ -601,6 +601,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-22 16:10:16 +0000",
+      "apple": "2024-12-25 04:02:13 +0000",
       "bread": "2024-12-23 15:35:25 +0000",
       "cooked_chicken": "2024-12-23 01:13:23 +0000",
       "rotten_flesh": "2024-12-22 15:44:07 +0000",
@@ -2543,6 +2544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-25 04:00:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-25 03:04:12 +0000"
@@ -2651,6 +2658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-25 04:04:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-12-25 03:13:13 +0000"
@@ -2660,6 +2673,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-25 03:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-25 04:02:38 +0000"
     },
     "done": true
   },

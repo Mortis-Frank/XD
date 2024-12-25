@@ -34,3 +34,16 @@
 [03:42:30] [Server thread/INFO]: Tigre_Severo fell from a high place
 [03:43:03] [Server thread/INFO]: [Tigre_Severo: Teleported Tigre_Severo to 1080.500000, 81.000000, -2078.500000]
 [03:44:47] [Server thread/INFO]: [Tigre_Severo: Teleported Tigre_Severo to 214.500000, 75.000000, -2008.500000]
+[04:07:32] [Server thread/INFO]: Tigre_Severo lost connection: Disconnected
+[04:07:32] [Server thread/INFO]: Tigre_Severo left the game
+[04:07:45] [Server thread/INFO]: Stopping the server
+[04:07:45] [Server thread/INFO]: Stopping server
+[04:07:45] [Server thread/INFO]: Saving players
+[04:07:45] [Server thread/INFO]: Saving worlds
+[04:07:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:07:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:07:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:07:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:07:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:07:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:07:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
