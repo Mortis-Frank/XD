@@ -2809,6 +2809,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 16:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 16:29:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2024-12-25 16:38:04 +0000"
@@ -2821,15 +2833,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "has_amethyst_shard": "2024-12-25 16:29:47 +0000"
+      "crying_obsidian": "2024-12-25 16:47:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
+  "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
-      "has_amethyst_shard": "2024-12-25 16:29:47 +0000"
+      "has_obsidian": "2024-12-25 16:47:30 +0000"
     },
     "done": true
   },
